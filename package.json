@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon index",
     "prod": "NODE_ENV=production nodemon index",
-    "start": "node index"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
